@@ -13,6 +13,7 @@ JS files written by me are at:
 ```
 /js/general.js
 /js/gmap-locations.js
+/js/listing-filters.js
 ```
 
 Styles written by me at:
